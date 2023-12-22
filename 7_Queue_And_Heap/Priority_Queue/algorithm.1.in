@@ -1,0 +1,12 @@
+11
+push 50
+push 40
+pop
+push 20
+pop
+push 30
+push 10
+pop
+pop
+pop
+pop
